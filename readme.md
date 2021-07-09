@@ -5,4 +5,5 @@
 5. Used JPA repository(Check user Service)
 6. Used Junit and Mockito(Check Test)
 7. Used embedded tomcat , port 8080(random)
-8. While testing the API's I took images in testing_images folder, please have a look.
+8. Used POSTMAN to check the REST calls.
+9. While testing the API's I took images in testing_images folder, please have a look.
